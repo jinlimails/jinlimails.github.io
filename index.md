@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Ph.D. in Engineering, Department of Computer Science and Technology, Tsinghua University, supervised by Professor Ling Feng. Currently an Associate Professor at the Aerospace Information Research Institute, Chinese Academy of Sciences. 
 
 ## Research Interests
 
