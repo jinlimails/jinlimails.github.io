@@ -2,15 +2,15 @@ main:
 
   - title: Consistency and Invariance Guided Multi-View Hypergraph Learning for Robust Hyperedge Prediction
     authors: Changyuan Tian,  <strong>Li Jin*</strong>, Zequn Zhang*, Zhicong Lu, Wen Shi, Jianhua Yin, Shiyao Yan, Zhi Guo  (*Corresponding authors)
-    conference: ACM Transactions on Knowledge Discovery from Data, 2026.
+    conference: ACM Transactions on Knowledge Discovery from Data 2026.
     pdf: ./assets/files/TKDD-2026.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/jinlimails/
     bibtex: https://bib.yliu.me/MICCAI23.txt
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: Rectify Evaluation Preference: Improving LLMs’ Critique on Math Reasoning via Perplexity-aware Reinforcement Learning
+    authors: Changyuan Tian, Zhicong Lu, ShuangQian, Nayu Liu, Peiguang Li*, <strong>Li Jin*</strong>, Leiyi Hu, ZhizhaoZeng, Sirui Wang, Ke Zeng, Zhi Guo
+    conference: AAAI 2025.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
