@@ -4,7 +4,7 @@ main:
     authors: Changyuan Tian,  <strong>Li Jin*</strong>, Zequn Zhang*, Zhicong Lu, Wen Shi, Jianhua Yin, Shiyao Yan, Zhi Guo  (*Corresponding authors)
     conference_short: TKDD
     conference: ACM Transactions on Knowledge Discovery from Data, 2026.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/TKDD-2026.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/tkdd2026.png
