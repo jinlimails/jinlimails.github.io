@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/TKDD-2026.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/tkdd2026.png
+    image: ./assets/img/TKDD2026.png
     notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
